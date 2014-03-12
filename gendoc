@@ -1,0 +1,11 @@
+#! /bin/bash
+echo "Generate concordion test Snippet.html, mv from target to index.html and push up to github gh-pages"
+git checkout master
+mvn test -Dconcordion.output.dir=target
+git checkout gh-pages
+git pull
+mv target/com/javax0/concordion/utilities/Snippet.html index.html
+git add index.html
+git commit -m "index.html for gh pages was updated"
+git push
+git checkout master
