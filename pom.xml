@@ -3,7 +3,7 @@
 
 	<groupId>com.javax0.concordion.extensions</groupId>
 	<artifactId>snippet</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Concordion Snippet</name>
