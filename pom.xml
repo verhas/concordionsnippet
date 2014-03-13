@@ -37,14 +37,6 @@
 		<url>git@github.com:verhas/concordionsnippet.git</url>
 		<developerConnection>scm:git:git@github.com:verhas/concordionsnippet.git</developerConnection>
 	</scm>
-	<distributionManagement>
-		<site>
-			<id>github</id>
-			<name>github</name>
-			<url>git:git@github.com:verhas/concordionsnippet.git</url>
-		</site>
-	</distributionManagement>
-
 
 	<build>
 		<plugins>
