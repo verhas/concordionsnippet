@@ -29,19 +29,19 @@
 		</license>
 	</licenses>
 	<issueManagement>
-		<url>https://bitbucket.org/verhas/socodot/issues</url>
+		<url>https://github.org/verhas/socodot/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 	<scm>
-		<connection>scm:git@bitbucket.org:verhas/concordionsnippet.git</connection>
-		<url>git@bitbucket.org:verhas/concordionsnippet.git</url>
-		<developerConnection>scm:git:git@bitbucket.org:verhas/concordionsnippet.git</developerConnection>
+		<connection>scm:git@github.org:verhas/concordionsnippet.git</connection>
+		<url>git@github.org:verhas/concordionsnippet.git</url>
+		<developerConnection>scm:git:git@github.org:verhas/concordionsnippet.git</developerConnection>
 	</scm>
 	<distributionManagement>
 		<site>
 			<id>github</id>
 			<name>github</name>
-			<url>git:git@bitbucket.org:verhas/concordionsnippet.git</url>
+			<url>git:git@github.org:verhas/concordionsnippet.git</url>
 		</site>
 	</distributionManagement>
 
